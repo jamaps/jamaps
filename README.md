@@ -9,10 +9,14 @@ My GitHub repositories and activity are a hodgepodge of geographic data analysis
 Check out my [Website / Portfolio](https://jamaps.github.io/) for a visual library of my maps and some of my other side projects.
 
 Social links (I don't check these super regularly)
-- https://linkedin.com/in/jeffallenmaps/
-- https://twitter.com/JeffAllenMaps
-- https://mapstodon.space/@jamaps
+- [LinkedIn](https://linkedin.com/in/jeffallenmaps/)
+- [Twitter](https://twitter.com/JeffAllenMaps)
+- [Mastodon](https://mapstodon.space/@jamaps)
 
 Research (from my PhD days, etc.)
-- https://scholar.google.com/citations?user=XFmML7cAAAAJ&hl=en
-- https://www.researchgate.net/profile/Jeff-Allen-7
+- [Google Scholar](https://scholar.google.com/citations?user=XFmML7cAAAAJ&hl=en)
+- [Research Gate](https://www.researchgate.net/profile/Jeff-Allen-7)
+
+etc etc.
+- [Wikimedia Uploads](https://commons.wikimedia.org/w/index.php?title=Special:ListFiles/Jamaps&ilshowall=1)
+- [OpenStreetMap Contributions](https://www.openstreetmap.org/user/jamaps/history)
