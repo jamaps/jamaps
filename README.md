@@ -15,7 +15,7 @@ Social links (I don't check these super regularly)
 
 Research (from my PhD days, etc.)
 - [Google Scholar](https://scholar.google.com/citations?user=XFmML7cAAAAJ&hl=en)
-- [Research Gate](https://www.researchgate.net/profile/Jeff-Allen-7)
+- [ResearchGate](https://www.researchgate.net/profile/Jeff-Allen-7)
 
 etc etc.
 - [Wikimedia Uploads](https://commons.wikimedia.org/w/index.php?title=Special:ListFiles/Jamaps&ilshowall=1)
