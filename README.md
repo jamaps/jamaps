@@ -12,10 +12,9 @@ Social links
 - [LinkedIn](https://linkedin.com/in/jeffallenmaps/)
 - [Mastodon](https://mapstodon.space/@jamaps)
 
-Research (from my PhD days, etc.)
+etc.
+- [Wikimedia Uploads](https://commons.wikimedia.org/w/index.php?title=Special:ListFiles/Jamaps&ilshowall=1)
+- [OpenStreetMap Contributions](https://www.openstreetmap.org/user/jamaps/history)
 - [Google Scholar](https://scholar.google.com/citations?user=XFmML7cAAAAJ&hl=en)
 - [ResearchGate](https://www.researchgate.net/profile/Jeff-Allen-7)
 
-etc etc.
-- [Wikimedia Uploads](https://commons.wikimedia.org/w/index.php?title=Special:ListFiles/Jamaps&ilshowall=1)
-- [OpenStreetMap Contributions](https://www.openstreetmap.org/user/jamaps/history)
