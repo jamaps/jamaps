@@ -6,7 +6,7 @@ My GitHub activity is a hodgepodge of geographic data analysis/science projects 
 
 Check out my [Website / Portfolio](https://jamaps.github.io/) for a visual library of my hobby cartography and photography projects as well as links to a few other things.
 
-In my day job I lead data visualization, mapping, front-end web development, spatial data science, and urban research projects at the [School of Cities](https://www.schoolofcities.utoronto.ca/), University of Toronto. Check out our [Maps & Data Visualization](https://www.schoolofcities.utoronto.ca/research-type/data-visualization/) page if you're interested in the visual part of this work.
+In my day job I do a hodgepodge data visualization, mapping, front-end web development, spatial data science, and urban research at the [School of Cities](https://www.schoolofcities.utoronto.ca/), University of Toronto. Check out our [Maps & Data Visualization](https://www.schoolofcities.utoronto.ca/research-type/data-visualization/) page if you're interested in the visual part of this work.
 
 
 
